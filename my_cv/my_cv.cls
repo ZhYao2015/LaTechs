@@ -9,7 +9,7 @@
 {}[\titlerule]
 
 \titleformat{\subsection}
-{\vspace{-2mm}\bfseries\normalsize\scshape\raggedright}
+{\vspace{-2mm}\bfseries\normalsize\raggedright}
 {}{0em}
 {}
 
